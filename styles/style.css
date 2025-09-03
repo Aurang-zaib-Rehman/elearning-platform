@@ -870,7 +870,7 @@ header{
 }
 
 .about-hero-section {
-    background-image: linear-gradient(to right, rgba(15, 15, 15, 0.6), rgba(0, 0, 3, 0.7)), url('/images/hero-1.jpg');
+    background-image: linear-gradient(to right, rgba(15, 15, 15, 0.6), rgba(0, 0, 3, 0.7)), url('images/hero-1.jpg');
     background-size: cover; 
     background-position: center;
     height: 100%; 
